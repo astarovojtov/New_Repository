@@ -1,1 +1,1 @@
-https://astarovojtov.github.io/New_Repository/
+https://username.github.io/New_Repository/index.html

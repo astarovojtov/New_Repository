@@ -1,1 +1,1 @@
-https://github.com/astarovojtov/New_Repository/
+https://astarovojtov.github.io/New_Repository/
